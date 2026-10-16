@@ -24,9 +24,9 @@
 
 ## 技术与工作方式
 
-- **应用开发：**React、JavaScript、Ant Design、Express、MySQL。
-- **工具接入：**Python 文件解析、OCR、MCP；关注参数校验、错误返回与依赖边界。
-- **交付验证：**Git、Docker Compose、Linux 部署；通过测试与页面验收检查业务链路。
-- **AI 辅助开发：**使用 Codex、Claude Code、WorkBuddy 辅助编码，自己负责需求判断、代码审查、问题定位和结果验收。
+- **应用开发：** React、JavaScript、Ant Design、Express、MySQL。
+- **工具接入：** Python 文件解析、OCR、MCP；关注参数校验、错误返回与依赖边界。
+- **交付验证：** Git、Docker Compose、Linux 部署；通过测试与页面验收检查业务链路。
+- **AI 辅助开发：** 使用 Codex、Claude Code、WorkBuddy 辅助编码，自己负责需求判断、代码审查、问题定位和结果验收。
 
 希望在实习中继续打磨 AI 工具与真实业务结合的能力，也愿意从具体功能、测试和文档工作做起。
